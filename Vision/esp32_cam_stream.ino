@@ -5,8 +5,8 @@
 #define CAMERA_MODEL_AI_THINKER
 #include "camera_pins.h"
 
-const char* ssid = "YOUR_WIFI";
-const char* password = "YOUR_PASS";
+const char* ssid = "WIFI";
+const char* password = "ASS";
 
 WebServer server(80);
 
