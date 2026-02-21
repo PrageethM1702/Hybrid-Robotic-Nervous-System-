@@ -1,0 +1,88 @@
+CH2 - Yellow Colour 
+
+Voltage Parameters
+Max: 24.00mV
+Min: -34.00mV
+High: -1.672mV
+Low: -7.594mV
+Ampl: 5.922mV
+Pk-Pk: 58.00mV
+Middle: -4.633mV
+Mean: 1.557mV
+CycMean: 1.429mV
+RMS: 8.624mV
+CycRMS: 7.954mV
+AC RMS: 8.606mV
+
+Timer Parameters
+Period: 24.20µs
+Freq: 41.32kHz
+Rise: 200.0ns
+Fall: 2.600µs
+RiseDelay: -1.400µs
+FallDelay: -40.20µs
++Width: 12.97µs
+-Width: 11.23µs
+FRFR: -1.000µs
+FRFF: 21.60µs
+FFFR: 9.200µs
+FFFF: 31.80µs
+FRLF: 100.8µs
+FRLR: 46.80µs
+FFLR: 57.00µs
+FFLF: 111.0µs
+
+Other Parameters
++Duty: 53.58%
+-Duty: 46.42%
+Area: 249.2µVs
+CycArea: 28.00µVs
+OverSht: 399.7%
+PreSht: -445.9%
+Phase: -385.7°
+Pulse: 6.000
+
+
+CH1 - Blue Colour
+
+Voltage Parameters
+Max: 28.00mV
+Min: -28.00mV
+High: 158.9µV
+Low: -837.4µV
+Ampl: 996.3µV
+Pk-Pk: 56.00mV
+Middle: -339.2µV
+Mean: 3.950mV
+CycMean: 4.213mV
+RMS: 8.562mV
+CycRMS: 8.809mV
+AC RMS: 8.037mV
+
+Timer Parameters
+Period: 63.50µs
+Freq: 15.75kHz
+Rise: 400.0ns
+Fall: 200.0ns
+RiseDelay: 0s
+FallDelay: 0s
++Width: 38.30µs
+-Width: 25.20µs
+FRFR: 0s
+FRFF: 22.60µs
+FFFR: -22.60µs
+FFFF: 0s
+FRLF: 101.8µs
+FRLR: 47.80µs
+FFLR: 25.20µs
+FFLF: 79.20µs
+
+Other Parameters
++Duty: 60.31%
+-Duty: 39.69%
+Area: 632.0µVs
+CycArea: 201.4µVs
+OverSht: 2594%
+PreSht: -2726%
+Phase: 0°
+Pulse: 2.000
