@@ -1,0 +1,87 @@
+CH-2 (SlaveSrc – CH1)
+
+Voltage Parameters
+Max: 14.00 mV
+Min: −24.00 mV
+High: 102.8 µV
+Low: −5.172 mV
+Amplitude: 5.274 mV
+Peak-to-Peak: 38.00 mV
+Middle: −2.534 mV
+Mean: 482.5 µV
+Cycle Mean: −775.3 µV
+RMS: 5.727 mV
+Cycle RMS: 7.066 mV
+AC RMS: —
+
+Time Parameters
+Period: 111.8 µs
+Frequency: 8.947 kHz
+Rise Time: 1.000 µs
+Fall Time: 1.000 µs
+Rise Delay: —
+Fall Delay: —
+Positive Width: 48.60 µs
+Negative Width: 63.17 µs
+FRFR: 11.00 µs
+FRFF: −178.0 µs
+FFFR: 189.0 µs
+FFFF: 0 s
+FRLF: 435.0 µs
+FRLR: 379.0 µs
+FFLR: 557.0 µs
+FFLF: 613.0 µs
+
+Other Parameters
+Positive Duty Cycle: 43.48%
+Negative Duty Cycle: 56.52%
+Area: 386.0 µVs
+Cycle Area: −69.00 µVs
+Overshoot: —
+Preshoot: —
+Phase: —
+Pulse Count: 6
+
+CH-1 (SlaveSrc – CH1)
+
+Voltage Parameters
+Max: 18.00 mV
+Min: −24.00 mV
+High: −931.5 µV
+Low: −3.505 mV
+Amplitude: 2.573 mV
+Peak-to-Peak: 42.00 mV
+Middle: −2.218 mV
+Mean: −497.5 µV
+Cycle Mean: −1.991 mV
+RMS: 5.616 mV
+Cycle RMS: 6.856 mV
+AC RMS: —
+
+Time Parameters
+Period: 153.3 µs
+Frequency: 6.525 kHz
+Rise Time: 4.000 µs
+Fall Time: 1.000 µs
+Rise Delay: —
+Fall Delay: —
+Positive Width: 65.75 µs
+Negative Width: 87.50 µs
+FRFR: 0 s
+FRFF: −189.0 µs
+FFFR: 189.0 µs
+FFFF: 0 s
+FRLF: 424.0 µs
+FRLR: 368.0 µs
+FFLR: 557.0 µs
+FFLF: 613.0 µs
+
+Other Parameters
+Positive Duty Cycle: 42.90%
+Negative Duty Cycle: 57.10%
+Area: −398.0 µVs
+Cycle Area: −233.0 µVs
+Overshoot: —
+Preshoot: —
+Phase: —
+Pulse Count: 4
